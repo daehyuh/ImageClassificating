@@ -18,7 +18,7 @@
 ```
 name.png
 
-1키를 누르면 name_drive.png
-2키를 누르면 name_stop.png
-3키를 누르면 name_undecided.png
-ctrl+x키를 누르면 파일삭제
+1키를 누르면 name_drive.png   
+2키를 누르면 name_stop.png   
+3키를 누르면 name_undecided.png   
+ctrl+x키를 누르면 파일삭제   
