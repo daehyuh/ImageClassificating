@@ -1,6 +1,9 @@
 # ImageClassificating
 이미지 분류 프로그램
 
+## 이미지 분류를 해줍니다.
+## 분류가 된 이미지는 json을 읽어 화면에 그려줍니다
+
 <img width="481" alt="KakaoTalk_20220929_144050674" src="https://user-images.githubusercontent.com/53990946/192948060-4725e2a5-5f45-459f-9798-5163fda92f59.png">
 
 ```python
